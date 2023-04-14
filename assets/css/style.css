@@ -84,3 +84,9 @@
   .card button:hover {
     opacity: 0.7;
   }
+
+  .myDiv {
+    border: 5px outset rgb(11, 11, 11);
+    background-color: lightblue;    
+    text-align: center;
+  }
